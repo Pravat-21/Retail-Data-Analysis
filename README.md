@@ -27,7 +27,9 @@ I used Power BI tool for data visualization where I have used various charts lik
 ### ** `ER diagram` :**
 ![alt text](Image/ER.png)
 
-## **Some Sample snapshot of my work :**
+## **USE MY REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiN2I1N2ZjMmItNGE5OC00ODkyLTgwNWUtMGYyNDAyZGIwYjRiIiwidCI6ImY4N2I2ZjgyLTIxNTUtNDc5Zi1iYThiLTRkNTdkN2Q2OWUwZiJ9)**
+
+## **Some Sample snapshots of my work :**
 ![alt text](Image/ss1.png)
 
 ![alt text](Image/ss2.png)
